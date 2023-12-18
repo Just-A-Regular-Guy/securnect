@@ -1,0 +1,14 @@
+{
+  "chat1": {
+    "ip": "xxx",
+    "mac": "xxx"
+  },
+  "chat2": {
+    "ip": "xxx",
+    "mac": "xxx"
+  },
+  "chat3": {
+    "ip": "xxx",
+    "mac": "xxx"
+  }
+}
