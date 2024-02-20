@@ -21,13 +21,13 @@ Securnect is a command-line interface (CLI) application that empowers users to c
 To install Securnect, follow these steps:
 
 - Clone the Securnect repository:
-     git clone https://github.com/Just-A-Regular-Guy/Securnect
+     git clone https://github.com/Just-A-Regular-Guy/securnect
 
 - Navigate to the Securnect directory:
-     cd Securnect
+     cd securnect
 
 - run Securnect:
-     python3 Securnect.py
+     python3 securnect.py
 
 # Disclaimer
 
@@ -37,5 +37,5 @@ It is the responsibility of the users to use Securnect in compliance with applic
 
 Please be aware that security is an ever-evolving field, and vulnerabilities may be discovered over time. Users are encouraged to stay informed about updates and security best practices. Contributions to improve the security of Securnect are welcomed.
 
-By using Telescope, you acknowledge that you have read, understood, and agreed to the terms outlined in this LICENSE: https://github.com/Just-A-Regular-Guy/Securnect/blob/main/LICENSE . 
+By using Telescope, you acknowledge that you have read, understood, and agreed to the terms outlined in this LICENSE: https://github.com/Just-A-Regular-Guy/securnect/blob/main/LICENSE . 
 The developers and contributors of Securnect reserve the right to modify or update this LICENSE at any time.
