@@ -29,7 +29,7 @@ def handle_client(client_socket, username):
     del clients[username]
 
 # Configurazione del server
-HOST = '16.171.147.150'
+HOST = '172.31.39.174'
 PORT = 12345
 
 # Inizializza il socket del server
